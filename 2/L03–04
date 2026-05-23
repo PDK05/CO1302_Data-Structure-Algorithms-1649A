@@ -1,0 +1,7 @@
+# Review Array in Java & Some main tasks performed with Array (30/05/2025)
+# 1. Search
+# 2. Arrange:
+# // 2.1. Partition: negative numbers on the left, non-negative numbers on the right
+# // 2.2. Reverse
+# // 2.3. Sort (ascending, descending)
+# 3. CRUD (Create, Read, Update, Delete)
